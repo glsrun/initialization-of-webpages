@@ -10,3 +10,7 @@ editor: visual
 library(tidyr)
 library(cowplot)
 ```
+
+```{r}
+mtcars
+```
